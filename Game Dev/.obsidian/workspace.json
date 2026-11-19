@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "7f31f735c35fb3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "17b42e6f95f969dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31eb52dc8d98077f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Unity Project Conventions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unity Project Conventions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c15d2814b40791c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6af2d85b40c3bfdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b74672dd9e51f0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "31b480680ff1fb7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4d69d8c75f62746",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a2e758da0aec2be",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe8f0293bd86638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "655f274d54ce59c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Unity Project Conventions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b6b98865cf183149",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity/Unity Project Conventions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "46cdd9e38f9c043f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d9c2823dee53a1d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3795ca0a390ab817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity/Unity Project Conventions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "31eb52dc8d98077f",
+  "lastOpenFiles": [
+    "Unity/Assembly Definitions.md",
+    "Architecture/Authority Model.md",
+    "00 - Home.md",
+    "Unity/Unity Project Conventions.md",
+    "Multiplayer/Backend and Persistence.md",
+    "Gameplay Systems/Camera and Character Directors.md",
+    "Gameplay Systems/Collectibles.md",
+    "Decisions/Decision Log.md",
+    "Character/Third-Person Character Movement.md",
+    "Workflow/Planning With AI Agents.md",
+    "Decisions",
+    "Workflow",
+    "Unity",
+    "Character",
+    "Gameplay Systems/Template Prefabs and Setup Wizards.md",
+    "Gameplay Systems/Quest System.md",
+    "Architecture/Gameplay Events.md",
+    "Architecture/Local vs Shared State.md",
+    "Architecture/Registry Pattern.md",
+    "Architecture/Service Locator.md",
+    "Architecture/Data vs Behaviour.md",
+    "Multiplayer/Multiplayer Topologies.md",
+    "Multiplayer/Private vs Public Matches.md",
+    "Gameplay Systems/Dialogue System.md",
+    "Gameplay Systems/Player Data and Progression.md",
+    "Gameplay Systems/UI Shell and Tabs.md",
+    "Gameplay Systems/Interactables.md",
+    "Gameplay Systems",
+    "Multiplayer/Development Before Netcode.md",
+    "Interactables.md",
+    "Multiplayer/Dedicated Server Hosting.md",
+    "Multiplayer",
+    "Architecture",
+    "Untitled.canvas",
+    "Next Stop"
+  ]
+}
